@@ -5,3 +5,4 @@
     - You might need to enable intel virtualization in BIOS in order to run Android emulator.
 - Clone the project from here. 
 - npm run android-windows
+- Search with keyword "onmicrosoft" in this repo to check out the related changes with AAD B2C.
